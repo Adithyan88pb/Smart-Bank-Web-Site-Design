@@ -1,0 +1,45 @@
+.main_Footedr {
+  padding-top: 30px;
+  background: #eaf4fe;
+  /* padding-bottom: 100px; */
+}
+.button_main {
+  padding-top: 10px;
+}
+.button_main a {
+  border: 1px solid black;
+  width: 200px;
+  font-size: 13px;
+}
+.button111 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.button111 a {
+  background-color: #06104e;
+  color: #fff;
+  width: 200px;
+}
+.button111 a:hover {
+  background-color: #06104e;
+  color: aqua;
+  transition: 0.5s;
+}
+
+.footer_logo img {
+  width: 90px;
+}
+.main_Footedr li a {
+  text-decoration: none;
+  color: black;
+}
+
+li {
+  list-style: none;
+  padding: 6px;
+}
+#a_main {
+  color: #0a229c;
+  font-size: 17px;
+  font-weight: 600;
+}

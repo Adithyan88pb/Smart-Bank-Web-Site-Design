@@ -1,0 +1,17 @@
+.Testimonals_section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.Testimonals_section img {
+  width: 400px;
+}
+.Testimonals_section h4 {
+  font-weight: 600;
+  color: #050607;
+  padding-bottom: 20px;
+}
+.Testimonals_section h6{
+  font-weight: 600;
+  color: #06104e;
+}
